@@ -1,0 +1,22 @@
+{
+  "name": "lcs-test",
+  "version": "1.0.0",
+  "description": "A test program for native nodejs compatibility with OpenScore hardware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compy/node-lcs-test.git"
+  },
+  "author": "Jimmy Lipham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compy/node-lcs-test/issues"
+  },
+  "homepage": "https://github.com/compy/node-lcs-test#readme",
+  "dependencies": {
+    "serialport": "^8.0.7"
+  }
+}
