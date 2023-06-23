@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/compy/node-lcs-test#readme",
   "dependencies": {
-    "serialport": "^8.0.7"
+    "serialport": "^11.0.0"
   }
 }
